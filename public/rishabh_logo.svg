@@ -1,0 +1,9 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stylized Brackets -->
+  <path d="M 5 15 H 35 M 5 15 V 45 H 35" stroke="#FF611D" stroke-width="4" stroke-linecap="round" />
+  <path d="M 215 15 H 185 M 215 15 V 45 H 185" stroke="#FF611D" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Text -->
+  <text x="48" y="37" fill="#D6D2BD" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="18" font-weight="800" letter-spacing="1.5">RISHABH</text>
+  <text x="142" y="37" fill="#FF611D" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="18" font-weight="800" letter-spacing="1.5">RAJ</text>
+</svg>
